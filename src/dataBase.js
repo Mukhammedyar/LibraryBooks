@@ -1,14 +1,14 @@
 export const data = [
   {
     id: 1,
-    src: "../src/assets/pushkin.jpg",
+    src: "https://gas-kvas.com/grafic/uploads/posts/2023-10/1696498092_gas-kvas-com-p-kartinki-pushkin-50.jpg",
     name: "А.С.Пушкин",
     books: [
       {
         id: 1,
         bookid: 1,
         avtor: "А.С.Пушкин",
-        src: "../src/assets/book1.jpg",
+        src: "https://gas-kvas.com/grafic/uploads/posts/2023-10/1696498092_gas-kvas-com-p-kartinki-pushkin-50.jpg",
         name: "Капитанская дочка",
         date: 1836,
         tom: 4,
@@ -19,14 +19,14 @@ export const data = [
   },
   {
     id: 2,
-    src: "../src/assets/gogl.jpeg",
+    src: "https://i.pinimg.com/736x/4d/66/5f/4d665f87dd9137b62b2d7aa552fc1379.jpg",
     name: "Н.В.Гоголь",
     books: [
       {
         id: 1,
         bookid: 2,
         avtor: "Н.В.Гоголь",
-        src: "../src/assets/book2.jpg",
+        src: "https://i.pinimg.com/736x/4d/66/5f/4d665f87dd9137b62b2d7aa552fc1379.jpg",
         name: "Шинель",
         date: 1843,
         tom: 1,
@@ -37,14 +37,14 @@ export const data = [
   },
   {
     id: 3,
-    src: "../src/assets/tolstoy.jpg",
+    src: "https://avatars.mds.yandex.net/i?id=f3afb17283b6cc66f8467569e8264317_l-5083805-images-thumbs&ref=rim&n=13&w=1080&h=1350",
     name: "Л.Н.Толстой",
     books: [
       {
         id: 1,
         bookid: 3,
-        avtor: "Н.В.Гоголь",
-        src: "../src/assets/book3.jpg",
+        avtor: "Л.Н.Толстой",
+        src: "https://avatars.mds.yandex.net/i?id=f3afb17283b6cc66f8467569e8264317_l-5083805-images-thumbs&ref=rim&n=13&w=1080&h=1350",
         name: "Война и мир",
         date: " 1805—1812",
         tom: "1805—1812",
