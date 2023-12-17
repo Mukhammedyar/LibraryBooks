@@ -1,10 +1,3 @@
-.header {
-  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614723943_179-p-foni-dlya-literaturi-218.png);
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: 50% 50%;
-  z-index: 0;
-}
 .b-header {
   backdrop-filter: blur(5px) brightness(50%);
 }

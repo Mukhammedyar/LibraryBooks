@@ -15,7 +15,7 @@ export default function BookPage() {
  
 
   return (
-    <div className='flex px-24 my-10 h-[100vh]  font-sans gap-3 md:gap-10'>
+    <div className='flex px-10 md:px-24 -mt-16 py-24 h-[120vh] bg-white font-sans gap-3 md:gap-10'>
       <div className="left basis-[50%] flex justify-center">
         <img src={ddd[0].src} alt="" className='w-[250px] md:w-[450px] h-[350px] md:h-[500px] bg-white object-cover shadow-lg rounded-lg border-[1px] border-orange-400 p-1'/>
       </div>

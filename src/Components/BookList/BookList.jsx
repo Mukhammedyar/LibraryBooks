@@ -5,7 +5,7 @@ import './bookList.css'
 
 export default function BookList() {
   return (
-    <div className='my-10 px-10 md:px-20 font-sans'>
+    <div className='w-full py-10 bg-white font-sans'>
           <div className="book-list flex flex-wrap gap-5 items-center justify-center">
             {data.map(d => 
                 <Link 

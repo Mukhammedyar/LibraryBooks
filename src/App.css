@@ -5,6 +5,11 @@
   font-family: "Great Vibes", sans-serif;
   font-family: "Bad Script", cursive;
 }
+
 body {
-  background: rgb(81, 26, 8);
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614723943_179-p-foni-dlya-literaturi-218.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  z-index: 0;
 }
