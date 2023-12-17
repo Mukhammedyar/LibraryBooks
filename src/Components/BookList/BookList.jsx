@@ -10,7 +10,7 @@ export default function BookList() {
             {data.map(d => 
                 <Link 
                     key={d.id}
-                    className='min-h-[200px] w-[450px] flex flex-col bg-orange-800 text-white items-center justify-center gap-3 p-3 py-5 transition-5 transition-all md:hover:-translate-y-5 rounded-lg'
+                    className='min-h-[200px] w-[350px] flex flex-col bg-orange-800 text-white items-center justify-center gap-3 p-3 py-5 transition-5 transition-all md:hover:-translate-y-5 rounded-lg'
                 >
                 <div className="w-[150px] flex flex-col items-center ">
                   <img src={d.src} alt="" className='w-[100px] md:w-[150px] h-[100px] md:h-[150px] rounded-full object-cover transition-all transition-2 hover:scale-105 ' />
