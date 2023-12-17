@@ -4,11 +4,11 @@ import Header from '../Header/Header'
 
 
 export default function MainPage() {
-  
+
 
   return (
-    <div className=''>
-      <Header/>
+    <div className='flex flex-col items-center'>
+      <Header />
       <BookList />
     </div>
   )
